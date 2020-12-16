@@ -1,0 +1,462 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+<pdfset>
+<!--    <pdf src="https://3425005-sb1.app.netsuite.com/core/media/media.nl?id=23777303&amp;c=3425005_SB1&amp;h=55YQ3d1WZYRdoQfRzqH0r-6haKu38q1GUtocLm8-poBUyFtl&amp;_xt=.pdf" />-->
+<!--    <pdf src="https://3425005-sb1.app.netsuite.com/core/media/media.nl?id=23777816&amp;c=3425005_SB1&amp;h=lX4gXJFqJkrALH83w1VyWM8Ee_rwOBf51JNbRZOvG46LpbOt&amp;_xt=.pdf" />-->
+
+     <pdf src="https://3425005-sb1.app.netsuite.com/core/media/media.nl?id=23781236&amp;c=3425005_SB1&amp;h=EShTFc7Th7kVrWTEtzsPHgMJasAicw870q6y_Db6FQw4AJ2U&amp;_xt=.pdf"/>
+<!--    <pdf src="https://3425005-sb1.app.netsuite.com/core/media/media.nl?id=23781337&amp;c=3425005_SB1&amp;h=n9qeyloM8JCElX0IN5ClAUlwFuPI5NYFbNM1EaS6RSUgO7Mv&amp;_xt=.xml"/>-->
+
+
+        <pdf>
+            <head>
+                <link name="NotoSans" type="font" subtype="truetype" src="${nsfont.NotoSans_Regular}" src-bold="${nsfont.NotoSans_Bold}" src-italic="${nsfont.NotoSans_Italic}" src-bolditalic="${nsfont.NotoSans_BoldItalic}" bytes="2" />
+                <macrolist>
+                    <macro id="nlheader">
+                    </macro>
+                    <macro id="nlfooter">
+                        <table class="footer" align="left" style="background-color: #1EB5F6;margin-left: -60px; margin-right:-60px; margin-bottom:-60px; margin-top: 10px; width: 100%; font-weight: bold;font-size: 12pt;color:white;">
+                            <tr style="padding-top: 5px;">
+                                <td  width="6%">&nbsp;</td>
+                                <td  width="90%" style="padding-left:35px; font-size:17px; font-family: Arial, Helvetica, sans-serif;">Implemented . Measured . Reported</td><td style="padding-right:55px; font-size:14pt; font-family: Arial, Helvetica, sans-serif;">2.</td>
+                            </tr>
+                            <!--                    <tr>-->
+                            <!--                        <td width="7%">&nbsp;</td>-->
+                            <!--                        <td width="93%">&nbsp;</td>-->
+                            <!--                    </tr>-->
+                        </table>
+                    </macro>
+                </macrolist>
+                <style type="text/css">
+                    body {
+                    background-color: #DBE8F4;
+                    }
+                    p {
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    }
+                    footer {
+                    height:10px;
+                    }
+                    p.welcome{
+                    font-size: 27pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bold;
+                    padding-left: 50px;
+                    color: #000000;
+                    }
+                    p.data{
+                    font-size: 15pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    padding-left: 57px;
+                    padding-right: 50px;
+                    padding-top:50px;
+                    align:left;
+                    color: #000000;
+
+                    }
+                    p.data1{
+                    font-size: 15pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    color: #000000;
+                    }
+                    p.data2{
+                    font-size: 17pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bold;
+                    color: #000000;
+
+                    }
+                    p.data3{
+                    font-size: 15pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    color: #000000;
+                    }
+                    p.data4{
+                    font-size: 17pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    padding-left: 57px;
+                    padding-right: 50px;
+                    padding-top:20px;
+                    align:left;
+                    color: #000000;
+
+                    }
+                    p.data5{
+                    font-size: 15pt;
+                    font-family: Arial, Helvetica, sans-serif;
+                    padding-left: 57px;
+                    padding-right: 50px;
+                    align:left;
+                    color: #000000;
+
+                    }
+                    table.midtable{
+                    width: 90%;
+                    height: 90px;
+                    background-color: #DBDBDA ;
+                    align:center;
+                    margin-top:  50px;
+                    }
+                    table.image{
+                    padding-left: 34px;
+                    padding-top: 38px;
+                    }
+                    td.middata{
+                    font-size: 26px;
+                    align:center;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-style: italic;
+                    color: #000000;
+                    }
+                    div.midcontent{
+                    padding-left: 57px;
+                    padding-right: 50px;
+                    padding-top:20px;
+                    }
+
+
+
+                </style>
+            </head>
+            <body header="nlheader" header-height="2%" footer="nlfooter" footer-height="1%" footer-width="100%" padding="0.045in 0.45in 0.4in 0.2in" size="Letter">
+
+                <p class="welcome">Welcome,</p>
+
+                <table style="background-color : #1EB5F6; width:325px; height:16px;  margin-top:  5px; margin-left: 4px;"><tr><td></td></tr></table>
+                <p class="data">Welcome to your OX360 business report. This report is designed to present you with the performance of OX with your business over the  </p>
+                <!--PERIOD_CONTENT_HERE-->
+
+                <div class="midcontent"><p class="data1" style="display: inline;">Living up to our mission of </p><p class="data2" style="display: inline;">“…being the champion for retailers </p>
+                    <p class="data2"> enabling them to drive increased profits and performance” </p>
+                    <p class="data3">we are serious about what we do.</p></div>
+                <p class="data4">Our mission is what drives us to do everything possible to expand our customers potential.
+                    We do that by creating groundbreaking tool innovations, by providing better margins for our customers,
+                    by creating demand for the OX brand, and ensuring the results work for your business.</p>
+
+                <table  class="midtable"><tr><td class="middata">“Creating wealth for you &#38; your family”</td></tr></table>
+                <table class="image"><tr><td><img src="https://3425005-sb1.app.netsuite.com/core/media/media.nl?id=23781035&amp;c=3425005_SB1&amp;h=QGuUcQ2FHOXIcgJErlR12RLEpKBhWIVQD6ooIpcyXP6QKf9N&amp;fcts=20201214205809&amp;whence=" alt="OX" width="350px" height= "350px" /></td></tr></table>
+
+                <div>
+
+                </div>
+            </body>
+        </pdf>
+
+
+<pdf>
+    <head>
+        <link name="NotoSans" type="font" subtype="truetype" src="${nsfont.NotoSans_Regular}"
+              src-bold="${nsfont.NotoSans_Bold}" src-italic="${nsfont.NotoSans_Italic}"
+              src-bolditalic="${nsfont.NotoSans_BoldItalic}" bytes="2"/>
+        <macrolist>
+            <macro id="nlheader">
+            </macro>
+
+            <macro id="nlfooter">
+                <table class="footer" align="left"
+                       style="background-color: #1EB5F6;margin-left: -60px; margin-right:-60px; margin-bottom:-60px; margin-top: 10px; width: 100%; font-weight: bold;font-size: 12pt;color:white;">
+                    <tr style="padding-top: 5px;">
+                        <td width="6%">&nbsp;</td>
+                        <td width="90%" style="padding-left:35px; font-size:17px; font-family: Arial, Helvetica, sans-serif;">Implemented . Measured . Reported</td><td style="padding-right:55px; font-size:14pt; font-family: Arial, Helvetica, sans-serif;"><pagenumber/>.</td>
+                    </tr>
+<!--                    <tr>-->
+<!--                        <td width="7%">&nbsp;</td>-->
+<!--                        <td width="93%">&nbsp;</td>-->
+<!--                    </tr>-->
+                </table>
+            </macro>
+
+
+        </macrolist>
+        <style type="text/css">
+            p {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            }
+            footer {
+            height:10px;
+            }
+            table.datatable{
+            border: 1px solid Gray;
+            border-collapse: collapse;
+            }
+            th.heading{
+            font-size: 10pt;
+            align: center;
+            padding-left: 3px;
+            border: 1px solid Gray;
+            border-collapse: collapse;
+            font-weight: bold;
+            }
+            td.data{
+            font-size: 10pt;
+            padding-left: 3px;
+            border: 1px solid Gray;
+            border-collapse:
+            collapse;
+            }
+            td.rightaligneddata{
+            font-size: 10pt;
+            padding-right: 3px;
+            border: 1px solid Gray;
+            border-collapse: collapse;
+            text-align: right;
+            align:right;
+            }
+            td.centeraligneddata{
+            font-size: 10pt;
+            padding-right: 3px;
+            border: 1px solid Gray;
+            border-collapse: collapse;
+            text-align: center;
+            align:center;
+            }
+            td.total{
+            font-size: 10pt;
+            padding-right: 3px;
+            border: 1px solid Gray;
+            border-collapse: collapse;
+            align:right;
+            }
+            tr.heading{
+            background-color: rgb(0, 191, 255);
+            }
+            th.heading1{
+            background-color: rgb(0, 191, 255);
+            color:white;
+            align: center;
+            font-size: 13pt;
+            font-weight: bold;
+            }
+            td.altcol1{
+            background-color: rgb(0, 191, 255);
+            color:white;
+            width:20%;
+            font-size: 20pt;
+            border:0px;
+            margin:0px;
+            padding-left:3px;
+            font-weight: bold;
+            }
+            td.altcol2{background-color : rgb(240, 248, 255);;
+            font-size: 20pt;
+            border:0px;
+            margin:0px;
+            padding-left:3px;
+            font-weight: bold;
+            }
+            th.head1{
+            background-color: rgb(0, 191, 255);
+            color: white;
+            align: center;
+            font-size: 13pt;
+            font-weight: bold;
+            }
+            img{
+            width: 100%;
+            height: auto;
+            }
+            <!--            div.custname{-->
+            <!--            word-wrap: normal;-->
+            <!--            }-->
+            table.freeTextTable{
+            page-break-inside: avoid;
+            }
+
+        </style>
+    </head>
+    <body header="nlheader" header-height="2%" pagenumber="3" footer="nlfooter" footer-height="1%" footer-width="100%"
+          padding="0.5in 0.5in 0.4in 0.5in" size="Letter" >
+        <table align="left" width="100%" height="80px" style="border-collapse: collapse;">
+            <tbody>
+                <tr style="height:30px;">
+                    <td class="altcol1">Customer</td>
+                    <td class="altcol2" style="align:left">${data.customerName}</td>
+                </tr>
+                <tr style="height:30px;">
+                    <td class="altcol1">Date</td>
+                    <td class="altcol2">${data.todaysDate}</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <table width="100%" height="20px" style="border-collapse: collapse;">
+            <tbody>
+                <tr>
+                    <th class="heading1">
+                        OX360 Report
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+
+        <table width="100%" class="datatable" style= "margin-top: 5px;">
+            <tbody>
+                <tr style="background-color: rgb(0, 191, 255)">
+                    <th class="heading">Area</th>
+                    <th class="heading">Description</th>
+                    <th class="heading">Value</th>
+                </tr>
+                <tr>
+                    <td class="data">Sales</td>
+                    <td class="data">Total Sales During the Period</td>
+                    <td class="rightaligneddata">${data.invoiceAmount1}</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <table width="100%" class="datatable">
+            <tbody>
+                <tr class="heading">
+                    <th class="heading">Area</th>
+                    <th class="heading">Checkbox Value</th>
+                    <th class="heading">Selected Value</th>
+                </tr>
+                <tr>
+                    <td class="data">Marketing Support</td>
+                    <td class="data">${data.marketingSupportProvided}</td>
+                    <td class="data">
+                        <p align="center">${data.marketingSupportValue1}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="data">Training</td>
+                    <td class="data">${data.trainingConducted}</td>
+                    <td class="data">
+                        <p align="center">${data.trainingValue1}</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+
+
+        <table width="100%" class="datatable">
+            <tbody>
+                <tr class="heading">
+                    <th class="heading">Area</th>
+                    <th class="heading">Description</th>
+                    <th class="heading">Product Category</th>
+                    <th class="heading">Value</th>
+                </tr>
+                <!--ROW_CONTENT_HERE-->
+            </tbody>
+        </table>
+
+
+        <p>&nbsp;</p>
+        <table width="100%" height="20px" style="border-collapse: collapse;">
+            <tbody>
+                <tr>
+                    <th class="head1">OX360 Component Weighting</th>
+                </tr>
+            </tbody>
+        </table>
+
+        <table width="100%" class="datatable" style= "margin-top: 5px;">
+            <tbody>
+                <tr class="heading">
+                    <th class="heading">Area</th>
+                    <th class="heading">Description</th>
+                    <th class="heading">Value</th>
+                    <th class="heading">Weighting</th>
+                </tr>
+                <tr>
+                    <td class="data">Sales against the Target</td>
+                    <td class="data">Total sales against target</td>
+                    <td class="centeraligneddata">${data.salesAgainstTarget1}%</td>
+                    <td class="rightaligneddata">${data.salesweighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="data">Backorders</td>
+                    <td class="data">Total value of backorders against sales for the period</td>
+                    <td class="centeraligneddata">${data.backorderedPercentage1}%</td>
+                    <td class="rightaligneddata">${data.backOrderWeighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="data">Credits/returns</td>
+                    <td class="data">Total value of credits/returns against sales for the period</td>
+                    <td class="centeraligneddata">${data.creditReturns1}</td>
+                    <td class="rightaligneddata">${data.creditReturnsWeighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="data">Cases</td>
+                    <td class="data">Total number of cases for the period</td>
+                    <td class="centeraligneddata">${data.casesCount}</td>
+                    <td class="rightaligneddata">${data.caseWeighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="data"># MCI’s</td>
+                    <td class="data">Number of MCIs achieved by OX team during period(based on customer grade level)
+                    </td>
+                    <td class="centeraligneddata">${data.activityCount}</td>
+                    <td class="rightaligneddata">${data.activityWeighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="data">Merchandising</td>
+                    <td class="data">Condition of merchandising during period</td>
+                    <td class="data" style="text-align: center; align:center;">--</td>
+                    <td class="rightaligneddata">${data.merchandisingWeighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="data">Training</td>
+                    <td class="data">Training completed with store staff during period</td>
+                    <td class="data" style="text-align: center; align:center;">--</td>
+                    <td class="rightaligneddata">${data.trainingWeighting1}%</td>
+                </tr>
+                <tr>
+                    <td class="total" colspan="3">
+                        <b>Total</b>
+                    </td>
+                    <td class="rightaligneddata">
+                        <b>${data.totalWeighting}%</b>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+
+        <div align="right">
+            <table align="right" width="60%">
+                <tbody>
+                    <tr class="heading">
+                        <td style="color:white; height:20px; align: center; font-size: 14pt;font-weight: bold;">
+                            Merchandising
+                        </td>
+                    </tr>
+                    <tr style="height:1px;padding : 0px;">
+                        <td>&nbsp;</td>
+                    </tr>
+
+                    <tr style="width:31%">
+                        <td style="text-align: center;">
+                            <!--                            <img src="https://3425005-sb1.app.netsuite.com/core/media/media.nl?id=23774770&amp;c=3425005_SB1&amp;h=4JRD3TXTflztyPx40gQ4uuPCP0_Xgv98YiG3PZt15RdLNUyr&amp;fcts=20201126233413&amp;whence="-->
+                            <!--                                 alt="No Image" width="100%" height="auto"/>-->
+
+                            <img src = "${data.imageurl}" alt="No Image"  width="400px" height="150px"/>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+        <p>&nbsp;</p>
+
+            <table class="freeTextTable" width="100%"><tr><td>
+                <table align="left" width="100%">
+                    <!--CUSTOMER_FEEDBACK_CONTENT_HERE-->
+                </table>
+                <p>&nbsp;</p>
+                <table align="left" width="100%">
+                    <!--BULK_BY_OPPORTUNITY_CONTENT_HERE-->
+                </table>
+                <p>&nbsp;</p>
+                <table align="left" width="100%">
+                    <!--PRODUCT_OPPORTUNITY_CONTENT_HERE-->
+                </table>
+
+            </td></tr>
+            </table>
+    </body>
+</pdf>
+</pdfset>
